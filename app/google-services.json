@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "654055755566",
+    "firebase_url": "https://drtherapist-a5a34.firebaseio.com",
+    "project_id": "drtherapist-a5a34",
+    "storage_bucket": "drtherapist-a5a34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654055755566:android:cc106330e5dff1fd",
+        "android_client_info": {
+          "package_name": "com.example.drtherapist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654055755566-qm3m1mtv7o93orbkooiahr7721kjklsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drtherapist",
+            "certificate_hash": "d1f263011a7b5e50beff38f30d7640cb02475a4b"
+          }
+        },
+        {
+          "client_id": "654055755566-sn27pvd7r2v3kiiebrusu21vqlh45r6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeut5mD-ceE5ILezNFH73UxjVR5RHVM0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654055755566-02rvub87g4190fu63piavusboubs3fes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

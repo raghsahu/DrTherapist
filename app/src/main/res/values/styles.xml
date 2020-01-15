@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+
+<resources>
+
+    <!-- Base application theme. -->
+
+
+    -
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <!-- Customize your theme here. -->
+
+
+        <item name="colorPrimary">@color/app_color</item>
+
+        <item name="colorPrimaryDark">@color/app_color_dark</item>
+
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!--<item name="android:textViewStyle">@style/RobotoTextViewStyle</item>-->
+
+
+        <!--<item name="buttonStyle">@style/RobotoButtonStyle</item>-->
+
+
+    </style>
+
+
+    -
+
+    <style name="RobotoTextViewStyle" parent="android:Widget.TextView">
+
+        <item name="android:fontFamily">sans-serif-light</item>
+
+    </style>
+
+    <!--Calender Dialog Them-->
+    <style name="calender_dialog_theme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/app_color</item>
+        <!--<item name="android:colorControlActivated" tools:ignore="NewApi">@color/orange</item>-->
+    </style>
+    -
+
+    <style name="RobotoButtonStyle" parent="android:Widget.Holo.Button">
+
+        <item name="android:fontFamily">sans-serif-light</item>
+
+    </style>
+
+
+    -
+
+    <style name="AppTheme.NoActionBar">
+
+        <item name="windowActionBar">false</item>
+
+        <item name="windowNoTitle">true</item>
+
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--Progress Dialog -->
+
+
+    -
+
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+
+        <item name="android:textColorPrimary">#000000</item>
+
+        <item name="android:background">@android:color/white</item>
+
+    </style>
+
+    <!-- Custom progressbar-->
+
+    <style name="RedAccent" parent="ThemeOverlay.AppCompat.Light">
+
+        <item name="colorAccent">@color/colorPrimary</item>
+
+    </style>
+
+
+
+</resources>

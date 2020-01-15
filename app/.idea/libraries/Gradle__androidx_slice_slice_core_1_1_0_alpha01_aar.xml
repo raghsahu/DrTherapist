@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.slice:slice-core:1.1.0-alpha01@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a5f34d512276e0428e37c250c855241b/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a5f34d512276e0428e37c250c855241b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a5f34d512276e0428e37c250c855241b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.slice/slice-core/1.1.0-alpha01/62a28dfc9ee4eee6f55ab188f7fae331d6064f63/slice-core-1.1.0-alpha01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

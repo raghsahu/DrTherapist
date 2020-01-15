@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Therapist Hire</string>
+    <string name="facebook_app_id">417840409050151</string>
+    <string name="fb_login_protocol_schem">fb417840409050151</string>
+    <string name="fb_login_protocol_scheme">417840409050151</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_orlogin">Or</string>
+    <string name="forgot_password">Forgot Password</string>
+
+
+    <!--Validation String-->
+    <string name="search">Please enter text</string>
+    <string name="email_null">Please enter email</string>
+    <string name="email_v">Please enter valid email</string>
+    <string name="password_null">Please enter password</string>
+    <string name="password_v">Please enter valid password</string>
+    <string name="cpassword_v">Password not match</string>
+    <string name="dob_error">Please select date of birth</string>
+    <string name="fullname_v">Please enter name</string>
+    <string name="desc">Please enter job description</string>
+    <string name="startdate">Please select start date</string>
+    <string name="enddate">  end date</string>
+    <string name="starttime">  start time</string>
+    <string name="endtime">  end time</string>
+    <string name="exprience">Please enter exprience</string>
+    <string name="resume">Please upload your resume</string>
+    <string name="address_v">Please enter address</string>
+    <string name="age_v">Please enter age</string>
+    <string name="gender_v">Please enter gender</string>
+    <string name="city_v">Please enter city</string>
+    <string name="select_img">Please select profile image</string>
+    <string name="fullname_null">Please enter valid name</string>
+    <string name="fullname_required">Name must contain 3 characters</string>
+    <string name="valid_email">Please enter valid email address</string>
+    <string name="password_required">Password must contain 6 characters</string>
+    <string name="press_exit">Please click BACK again to exit</string>
+    <string name="select_image">Please Select your profile Image</string>
+    <string name="contact_v">Please insert valid mobile number</string>
+
+    <!--Network Validation-->
+    <string name="check_internet">Check your internet connection!</string>
+    <string name="invalid_password">Invalid Username Or Password</string>
+    <string name="too_slow">Internet connection too slow</string>
+    <string name="no_internet_access">Internet access not available, Please try again later</string>
+    <string name="exp_v">please enter experience</string>
+    <string name="state_v">Please enter state</string>
+    <string name="zip_v">Please enter zip code</string>
+    <string name="location_v">Please enter location</string>
+    <string name="familybio_v">Please enter family info</string>
+    <string name="familymember_v">Please enter no of family member</string>
+    <string name="no_record_found">No Record Found</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="confirm">Confirm</string>
+    <string name="logout">Do you want to logout ?</string>
+    <string name="select_category">Please select category</string>
+
+    <string-array name="search_by">
+        <item>search by name or pincode</item>
+        <item>search by category</item>
+        <item>search by nearest</item>
+
+    </string-array>
+
+
+</resources>

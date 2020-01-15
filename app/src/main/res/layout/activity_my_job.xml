@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".client.activity.ActivityMyJobs">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar_my_job"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        tools:ignore="MissingConstraints">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_my_job"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/app_color"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+    </android.support.design.widget.AppBarLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <android.support.design.widget.TabLayout
+                android:id="@+id/view_job_tabLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                app:tabIndicatorColor="@color/app_color"
+                app:tabSelectedTextColor="@color/app_color"
+                app:tabTextColor="@color/gray"
+                tools:ignore="MissingConstraints"></android.support.design.widget.TabLayout>
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/view_job_viewPager"
+                android:layout_width="match_parent"
+                android:layout_height="510dp"
+                android:textColor="@color/light_grey"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="8dp" />
+
+        </LinearLayout>
+
+</LinearLayout>

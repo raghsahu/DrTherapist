@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".common.BasicActivities.TermsOfUse">
+
+    <RelativeLayout
+        android:id="@+id/rl_header"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        android:padding="@dimen/_10sdp">
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_back" />
+
+        <TextView
+            android:id="@+id/tv_header"
+            style="@style/textview14white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:text="Terms Of Use" />
+
+
+    </RelativeLayout>
+    <WebView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" />
+    <!--<ScrollView-->
+        <!--android:id="@+id/scroll_profile"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_above="@+id/lay_footer_dr_profile"-->
+        <!--android:layout_below="@+id/rl_header">-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="@dimen/_100sdp"-->
+            <!--android:orientation="vertical"-->
+            <!--android:padding="@dimen/_10sdp">-->
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="@dimen/_20sdp"-->
+                <!--android:text="TERMS OF SERVICE AGREEMENT"-->
+                <!--android:textSize="@dimen/_20sdp" />-->
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="@dimen/_5sdp"-->
+                <!--android:text="PLEASE READ THE FOLLOWING TERMS OF SERVICE AGREEMENT CAREFULLY. BY ACCESSING OR USING OUR SITES AND OUR SERVICES, YOU HEREBY AGREE TO BE BOUND BY THE TERMS AND ALL TERMS INCORPORATED HEREIN BY REFERENCE. IT IS THE RESPONSIBILITY OF YOU, THE USER, CUSTOMER, OR PROSPECTIVE CUSTOMER TO READ THE TERMS AND CONDITIONS BEFORE PROCEEDING TO USE THIS SITE. IF YOU DO NOT EXPRESSLY AGREE TO ALL OF THE TERMS AND CONDITIONS, THEN PLEASE DO NOT ACCESS OR USE OUR SITES OR OUR SERVICES. THIS TERMS OF SERVICE AGREEMENT IS EFFECTIVE AS OF 06/01/2019"-->
+                <!--android:textSize="@dimen/_12sdp" />-->
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="@dimen/_20sdp"-->
+                <!--android:text="ACCEPTANCE OF TERMS"-->
+                <!--android:textSize="@dimen/_16sdp" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="@dimen/_5sdp"-->
+                <!--android:text="The following Terms of Service Agreement the TOS is a legally binding agreement that shall govern the relationship with our users and others which may interact or interface with The Missing Piece LLC, also known as Therapist Hire, located at 7036 Creekside Dr, Plainfield, Illinois 60586 and our subsidiaries and affiliates, in association with the use of theT herapist Hire website, which includes therapisthire.com, Site and its Services, which shall be defined below."-->
+                <!--android:textSize="@dimen/_12sdp" />-->
+
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="@dimen/_20sdp"-->
+                <!--android:text="DESCRIPTION OF WEBSITE SERVICES OFFERED"-->
+                <!--android:textSize="@dimen/_16sdp" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="@dimen/_5sdp"-->
+                <!--android:text="The Site is a social networking website which has the following description:-->
+
+<!--The Purpose of this website and App is to connect local therapist and therapeutic service providers with companies and family according to their availability and scheduling needs.-->
+
+<!--Any and all visitors to our site, despite whether they are registered or not, shall be deemed as users of the herein contained Services provided for the purpose of this TOS. Once an individual register's for our Services, through the process of creating an account, the user shall then be considered a member.-->
+
+<!--The user and/or member acknowledges and agrees that the Services provided and made available through our website and applications, which may include some mobile applications and that those applications may be made available on various social media networking sites and numerous other platforms and downloadable programs, are the sole property of The Missing Piece LLC. At its discretion, The Missing Piece LLC may offer additional website Services and/or products, or update, modify or revise any current content and Services, and this Agreement shall apply to any and all additional Services and/or products and any and all updated, modified or revised Services unless otherwise stipulated. The Missing Piece LLC does hereby reserve the right to cancel and cease offering any of the aforementioned Services and/or products. You, as the end user and/or member, acknowledge, accept and agree that The Missing Piece LLC shall not be held liable for any such updates, modifications, revisions, suspensions or discontinuance of any of our Services and/or products. Your continued use of the Services provided, after such posting of any updates, changes, and/or modifications shall constitute your acceptance of such updates, changes and/or modifications, and as such, frequent review of this Agreement and any and all applicable terms and policies should be made by you to ensure you are aware of all terms-->
+<!--and policies currently in effect. Should you not agree to the updated, revised or modified terms, you must stop using the provided Services forthwith.-->
+
+<!--Furthermore, the user and/or member understands, acknowledges and agrees that the Services offered shall be provided AS IS and as such The Missing Piece LLC shall not assume any responsibility or obligation for the timeliness, missed delivery, deletion and/or any failure to store user content, communication or personalization settings."-->
+                <!--android:textSize="@dimen/_12sdp" />-->
+
+        <!--</LinearLayout>-->
+
+    <!--</ScrollView>-->
+</LinearLayout>

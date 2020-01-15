@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar_edit_profile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_edit_profile"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/app_color"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_margin="20dp"
+            android:background="@drawable/rect_shape"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="100dp">
+
+            <EditText
+                android:windowSoftInputMode="stateAlwaysVisible"
+                android:overScrollMode="always"
+                android:scrollbarStyle="insideInset"
+                android:scrollbars="vertical"
+                android:singleLine="false"
+                android:isScrollContainer="true"
+                android:focusable="true"
+                android:id="@+id/et_comments"
+                android:hint="Comment..."
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:gravity="start"
+                android:padding="5dp"
+                android:inputType="textMultiLine"
+                android:background="@null"
+                />
+
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/btn_submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/btn_search"
+            android:gravity="center"
+            android:text="Submit"
+            android:textColor="@color/white" />
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

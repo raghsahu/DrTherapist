@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.remotecallback:remotecallback:1.0.0-alpha02@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fdc6f5ef7faa942dabb2a77495fec78c/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fdc6f5ef7faa942dabb2a77495fec78c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fdc6f5ef7faa942dabb2a77495fec78c/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.remotecallback/remotecallback/1.0.0-alpha02/ab3c782b30523d0d8eb1644d0c192bef407fbef0/remotecallback-1.0.0-alpha02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

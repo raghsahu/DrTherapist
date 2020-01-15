@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="pixel_3_xl" />
+        <device id="Nexus 7 2013" />
+        <device id="pixel_xl" />
+        <device id="Nexus 5X" />
+        <device id="pixel_2_xl" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7ec1800-d93f-4e79-8d89-aebfdccba675" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/content_activity_navigation_dr.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+              <folding>
+                <element signature="e#2998#4645#0" />
+                <element signature="e#3423#4595#0" />
+                <element signature="e#4659#6315#0" />
+                <element signature="e#5084#6264#0" />
+                <element signature="e#6613#8266#0" />
+                <element signature="e#7038#8214#0" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/client/activity/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="230" column="52" selection-start-line="230" selection-start-column="52" selection-end-line="230" selection-end-column="52" />
+              <folding>
+                <element signature="e#5364#5662#1" />
+                <element signature="e#6498#6526#0" expanded="true" />
+                <element signature="e#6599#6637#0" expanded="true" />
+                <element signature="method#getdrList#0;class#MainActivity#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/content_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-373">
+              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+              <folding>
+                <element signature="e#1027#2210#0" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spinner</find>
+      <find>btnSignUpTherapist</find>
+      <find>loginherether</find>
+      <find>Mrs Fields</find>
+      <find>ActivitySignup.this</find>
+      <find>RESULT_OK</find>
+      <find>getActivity()</find>
+      <find>btnLoginTherapist</find>
+      <find>tv_client_forgot_pass</find>
+      <find>Context</find>
+      <find>forgot_phone</find>
+      <find>et_forgot_email</find>
+      <find>isLoggedIn</find>
+      <find>putBoolean</find>
+      <find>27.1.1</find>
+      <find>exported</find>
+      <find>session</find>
+      <find>category_id</find>
+      <find>ll_baby_care</find>
+      <find>ll_gen</find>
+      <find>ll_lady_care</find>
+      <find>ic_expand_more_24dp</find>
+      <find>shape_border</find>
+      <find>shape_textview_circle</find>
+      <find>navigationView</find>
+      <find>navigationView1</find>
+      <find>btn_viewApplicants</find>
+      <find>drList</find>
+      <find>tv_view_more</find>
+      <find>ll_post_job</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>context</replace>
+      <replace>et_forgot_email</replace>
+      <replace>28.0.0</replace>
+      <replace>ic_expand_down</replace>
+      <replace>squere_border_bg</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/res/layout/fragment_client_sign_up.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/fragment_therapist_sign_up.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/Fragments/ClientSignUpFragment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/Utils/Validation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/Utils/ToastClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/Utils/NetworkUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/remote/API.java" />
+        <option value="$PROJECT_DIR$/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/BasicActivities/SignUpActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/Network/GPSTracker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/remote/Session.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/fragment_client_login.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_otp_verify.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/BasicActivities/OtpVerify.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/forgot_dialog.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/Utils/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/Fragments/TherapistLoginFraggment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/Fragments/ClientLoginFragment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/Models/UserInfoData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/Fragments/TherapistSignUpFragment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/Activities/Favorites.java" />
+        <option value="$PROJECT_DIR$/src/main/res/drawable/ic_favorite_fill_24dp.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_user_profile.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/Activities/UserProfile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/Activities/EditProfile.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_edit_profile.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/Activities/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/Activities/ClientEditProfile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/common/Utils/RuntimePermission.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/common/Utils/ToastClass.java" />
+        <option value="$PROJECT_DIR$/../build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/client/fragment/ClientLoginFragment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/common/remote/Session.java" />
+        <option value="$PROJECT_DIR$/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/common/Utils/RuntimePermissionClass.java" />
+        <option value="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/therapist/adapter/JobListAdapterDr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/therapist/activity/ActivityNavigationDr.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_job_list_dr.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/therapist/drawer/ActivityJobListDr.java" />
+        <option value="$PROJECT_DIR$/src/main/res/drawable/squere_border_bg.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_post_job_client.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/client/activity/ActivityPostJobClient.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/content_activity_navigation_dr.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/client/activity/ActivityViewApplicant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/client/model/ApplicantListData.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_view_applicant.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/content_main.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/client/activity/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/drtherapist/common/BasicActivities/SplashActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="97" />
+    <option name="y" value="29" />
+    <option name="width" value="1228" />
+    <option name="height" value="827" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DrTherapist" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="DrTherapist" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="DrTherapist" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="drtherapist" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DrTherapist" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="drtherapist" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DrTherapist" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="drtherapist" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="BasicActivities" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="samsung-sm_j701f-5200bcf8f44e74c7" />
+    <property name="DEBUGGABLE_PROCESS" value="com.example.drtherapist" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="420011b3dedc6300" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../MrsFieldsImage3april/MrsFields/app" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.example.drtherapist.Activities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Ravi Project\DrTherapist\DrTherapist\app\src\main\res\drawable" />
+      <recent name="C:\Ravi Project\DrTherapist 25Apr\DrTherapist\app\src\main\res\layout" />
+      <recent name="C:\Ravi Project\DrTherapist 25Apr\DrTherapist\app\src\main\java\com\example\drtherapist\Activities" />
+      <recent name="C:\Ravi Project\DrTherapist 25Apr\DrTherapist\app\src\main\res\drawable" />
+      <recent name="C:\Ravi Project\DrTherapist 25Apr\DrTherapist\app\src\main\java\com\example\drtherapist\BasicActivities" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7ec1800-d93f-4e79-8d89-aebfdccba675" name="Default Changelist" comment="" />
+      <created>1556259607503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556259607503</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.28265306" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.4989796" weight="0.3289689" />
+      <window_info anchor="bottom" x="24" y="299" width="980" height="386" id="Logcat" order="1" type="FLOATING" weight="0.6824877" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989796" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50102043" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.3289689" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.3010204" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.28265306" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.4989796" weight="0.3289689" />
+      <window_info anchor="bottom" x="24" y="299" width="980" height="386" id="Logcat" order="1" type="FLOATING" weight="0.6824877" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989796" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50102043" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.3289689" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.3010204" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/Fragments/TherapistSignUpFragment.java</url>
+          <line>213</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/Fragments/TherapistSignUpFragment.java</url>
+          <line>221</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/Fragments/TherapistSignUpFragment.java</url>
+          <line>220</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/client/activity/MainActivity.java</url>
+          <line>204</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/forgot_dialog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="48" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="48" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/drawable/ic_forgot.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/BasicActivities/LoginActivity.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/Fragments/TherapistSignUpFragment.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/res/drawable/ic_keyboard_backspace_black_24dp.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/menu/main.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/drawable/ic_favorite_fill_24dp.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/drawable/shape_pro.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/Fragments/ClientLoginFragment.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_favorites.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_client_edit_profile.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_edit_profile.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_user_profile.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/Activities/Favorites.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/Activities/MainActivity.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/Activities/ClientEditProfile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/Activities/EditProfile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/Activities/UserProfile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/common/Utils/NetworkUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/common/Utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/common/Utils/ToastClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="101" column="5" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+          <folding>
+            <element signature="method#AllPermision#0;class#ToastClass#0" />
+            <element signature="e#2387#2668#0" expanded="true" />
+            <element signature="e#2667#2668#0" expanded="true" />
+            <element signature="method#showSettingsDialog#0;class#ToastClass#0" />
+            <element signature="e#3081#3300#0" expanded="true" />
+            <element signature="e#3299#3300#0" expanded="true" />
+            <element signature="e#3347#3534#0" expanded="true" />
+            <element signature="e#3533#3534#0" expanded="true" />
+            <element signature="method#openSettings#0;class#ToastClass#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/client/fragment/ClientLoginFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="134" column="25" selection-start-line="134" selection-start-column="25" selection-end-line="134" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_splash.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="46" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-27/android/os/Looper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-27/android/app/ActivityThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2973" selection-start-line="2973" selection-end-line="2973" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/common/remote/Session.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="85" column="15" selection-start-line="85" selection-start-column="15" selection-end-line="85" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/common/Utils/RuntimePermissionClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3259#3446#0" expanded="true" />
+            <element signature="e#3445#3446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_navigation_dr.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/therapist/activity/ActivityNavigationDr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1870">
+          <caret line="70" column="75" selection-start-line="70" selection-start-column="75" selection-end-line="70" selection-end-column="75" />
+          <folding>
+            <element signature="method#onNavigationItemSelected#0;class#ActivityNavigationDr#0" />
+            <element signature="method#showDialogConformation#0;class#ActivityNavigationDr#0" />
+            <element signature="method#getjobList#0;class#ActivityNavigationDr#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_job_list_dr.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="53" column="50" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
+          <folding>
+            <element signature="e#341#1195#0" />
+            <element signature="e#1332#1347#0" expanded="true" />
+            <element signature="e#1455#1470#0" expanded="true" />
+            <element signature="e#1659#1674#0" expanded="true" />
+            <element signature="e#1890#1905#0" expanded="true" />
+            <element signature="e#2044#2058#0" expanded="true" />
+            <element signature="e#2465#2480#0" expanded="true" />
+            <element signature="e#2938#2952#0" expanded="true" />
+            <element signature="e#3265#3280#0" expanded="true" />
+            <element signature="e#3496#3511#0" expanded="true" />
+            <element signature="e#3782#3796#0" expanded="true" />
+            <element signature="e#1201#1779#0" />
+            <element signature="e#1785#2429#0" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/drawable/squere_border_bg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/drawable/shape_textview_circle.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_post_job_client.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="902" column="83" selection-start-line="902" selection-start-column="62" selection-end-line="902" selection-end-column="83" />
+          <folding>
+            <element signature="e#30504#30519#0" expanded="true" />
+            <element signature="e#30568#30583#0" expanded="true" />
+            <element signature="e#31488#31503#0" expanded="true" />
+            <element signature="e#31803#31818#0" expanded="true" />
+            <element signature="e#31967#31982#0" expanded="true" />
+            <element signature="e#32296#32311#0" expanded="true" />
+            <element signature="e#33032#33047#0" expanded="true" />
+            <element signature="e#33346#33361#0" expanded="true" />
+            <element signature="e#33515#33530#0" expanded="true" />
+            <element signature="e#33671#33687#0" expanded="true" />
+            <element signature="e#33970#33985#0" expanded="true" />
+            <element signature="e#34707#34722#0" expanded="true" />
+            <element signature="e#35324#35339#0" expanded="true" />
+            <element signature="e#35446#35461#0" expanded="true" />
+            <element signature="e#35694#35709#0" expanded="true" />
+            <element signature="e#35864#35879#0" expanded="true" />
+            <element signature="e#36100#36115#0" expanded="true" />
+            <element signature="e#36309#36324#0" expanded="true" />
+            <element signature="e#36479#36494#0" expanded="true" />
+            <element signature="e#36713#36728#0" expanded="true" />
+            <element signature="e#38156#38171#0" expanded="true" />
+            <element signature="e#38524#38539#0" expanded="true" />
+            <element signature="e#38685#38700#0" expanded="true" />
+            <element signature="e#38949#38964#0" expanded="true" />
+            <element signature="e#39343#39358#0" expanded="true" />
+            <element signature="e#39413#39428#0" expanded="true" />
+            <element signature="e#39881#39896#0" expanded="true" />
+            <element signature="e#40275#40290#0" expanded="true" />
+            <element signature="e#40345#40360#0" expanded="true" />
+            <element signature="e#40813#40828#0" expanded="true" />
+            <element signature="e#41207#41222#0" expanded="true" />
+            <element signature="e#41277#41292#0" expanded="true" />
+            <element signature="e#41745#41760#0" expanded="true" />
+            <element signature="e#42139#42154#0" expanded="true" />
+            <element signature="e#42209#42224#0" expanded="true" />
+            <element signature="e#42677#42692#0" expanded="true" />
+            <element signature="e#43071#43086#0" expanded="true" />
+            <element signature="e#43141#43156#0" expanded="true" />
+            <element signature="e#43609#43624#0" expanded="true" />
+            <element signature="e#44003#44018#0" expanded="true" />
+            <element signature="e#44073#44088#0" expanded="true" />
+            <element signature="e#44541#44556#0" expanded="true" />
+            <element signature="e#44935#44950#0" expanded="true" />
+            <element signature="e#45005#45020#0" expanded="true" />
+            <element signature="e#45574#45589#0" expanded="true" />
+            <element signature="e#45639#45654#0" expanded="true" />
+            <element signature="e#45706#45721#0" expanded="true" />
+            <element signature="e#46532#46547#0" expanded="true" />
+            <element signature="e#46754#46769#0" expanded="true" />
+            <element signature="e#47206#47221#0" expanded="true" />
+            <element signature="e#47505#47520#0" expanded="true" />
+            <element signature="e#49925#49940#0" expanded="true" />
+            <element signature="e#49999#50014#0" expanded="true" />
+            <element signature="e#50624#50639#0" expanded="true" />
+            <element signature="e#52290#52304#0" expanded="true" />
+            <element signature="e#52674#52689#0" expanded="true" />
+            <element signature="e#53119#53134#0" expanded="true" />
+            <element signature="e#53504#53519#0" expanded="true" />
+            <element signature="e#55924#55939#0" expanded="true" />
+            <element signature="e#55998#56013#0" expanded="true" />
+            <element signature="e#56623#56638#0" expanded="true" />
+            <element signature="e#58288#58302#0" expanded="true" />
+            <element signature="e#58672#58687#0" expanded="true" />
+            <element signature="e#59117#59132#0" expanded="true" />
+            <element signature="e#59502#59517#0" expanded="true" />
+            <element signature="e#61923#61938#0" expanded="true" />
+            <element signature="e#61997#62012#0" expanded="true" />
+            <element signature="e#62622#62637#0" expanded="true" />
+            <element signature="e#64287#64301#0" expanded="true" />
+            <element signature="e#64671#64686#0" expanded="true" />
+            <element signature="e#65116#65131#0" expanded="true" />
+            <element signature="e#65500#65515#0" expanded="true" />
+            <element signature="e#67924#67939#0" expanded="true" />
+            <element signature="e#67998#68013#0" expanded="true" />
+            <element signature="e#68623#68638#0" expanded="true" />
+            <element signature="e#70288#70302#0" expanded="true" />
+            <element signature="e#70672#70687#0" expanded="true" />
+            <element signature="e#71117#71132#0" expanded="true" />
+            <element signature="e#71501#71516#0" expanded="true" />
+            <element signature="e#73923#73938#0" expanded="true" />
+            <element signature="e#73997#74012#0" expanded="true" />
+            <element signature="e#74622#74637#0" expanded="true" />
+            <element signature="e#76287#76301#0" expanded="true" />
+            <element signature="e#76671#76686#0" expanded="true" />
+            <element signature="e#77116#77131#0" expanded="true" />
+            <element signature="e#77501#77516#0" expanded="true" />
+            <element signature="e#79920#79935#0" expanded="true" />
+            <element signature="e#79994#80009#0" expanded="true" />
+            <element signature="e#80619#80634#0" expanded="true" />
+            <element signature="e#82284#82298#0" expanded="true" />
+            <element signature="e#82668#82683#0" expanded="true" />
+            <element signature="e#83113#83128#0" expanded="true" />
+            <element signature="e#83498#83513#0" expanded="true" />
+            <element signature="e#85921#85936#0" expanded="true" />
+            <element signature="e#85995#86010#0" expanded="true" />
+            <element signature="e#86620#86635#0" expanded="true" />
+            <element signature="e#88285#88299#0" expanded="true" />
+            <element signature="e#88669#88684#0" expanded="true" />
+            <element signature="e#89114#89129#0" expanded="true" />
+            <element signature="e#89934#89949#0" expanded="true" />
+            <element signature="e#90207#90222#0" expanded="true" />
+            <element signature="e#90670#90685#0" expanded="true" />
+            <element signature="e#90986#91001#0" expanded="true" />
+            <element signature="e#91191#91207#0" expanded="true" />
+            <element signature="e#91258#91273#0" expanded="true" />
+            <element signature="e#91896#91911#0" expanded="true" />
+            <element signature="e#92630#92645#0" expanded="true" />
+            <element signature="e#92903#92918#0" expanded="true" />
+            <element signature="e#93367#93382#0" expanded="true" />
+            <element signature="e#93683#93698#0" expanded="true" />
+            <element signature="e#94149#94164#0" expanded="true" />
+            <element signature="e#94220#94235#0" expanded="true" />
+            <element signature="e#94956#94971#0" expanded="true" />
+            <element signature="e#95229#95244#0" expanded="true" />
+            <element signature="e#95701#95716#0" expanded="true" />
+            <element signature="e#96047#96062#0" expanded="true" />
+            <element signature="e#96308#96323#0" expanded="true" />
+            <element signature="e#96373#96388#0" expanded="true" />
+            <element signature="e#96440#96455#0" expanded="true" />
+            <element signature="e#96856#96871#0" expanded="true" />
+            <element signature="e#97144#97159#0" expanded="true" />
+            <element signature="e#97423#97438#0" expanded="true" />
+            <element signature="e#97708#97723#0" expanded="true" />
+            <element signature="e#98004#98019#0" expanded="true" />
+            <element signature="e#98738#98753#0" expanded="true" />
+            <element signature="e#99011#99026#0" expanded="true" />
+            <element signature="e#99472#99487#0" expanded="true" />
+            <element signature="e#99818#99833#0" expanded="true" />
+            <element signature="e#100079#100094#0" expanded="true" />
+            <element signature="e#100144#100159#0" expanded="true" />
+            <element signature="e#100211#100226#0" expanded="true" />
+            <element signature="e#100636#100651#0" expanded="true" />
+            <element signature="e#100928#100943#0" expanded="true" />
+            <element signature="e#101221#101236#0" expanded="true" />
+            <element signature="e#101518#101533#0" expanded="true" />
+            <element signature="e#101812#101827#0" expanded="true" />
+            <element signature="e#102098#102113#0" expanded="true" />
+            <element signature="e#102870#102885#0" expanded="true" />
+            <element signature="e#103263#103278#0" expanded="true" />
+            <element signature="e#103545#103560#0" expanded="true" />
+            <element signature="e#103610#103625#0" expanded="true" />
+            <element signature="e#103677#103692#0" expanded="true" />
+            <element signature="e#104866#104880#0" expanded="true" />
+            <element signature="e#105228#105243#0" expanded="true" />
+            <element signature="e#105647#105662#0" expanded="true" />
+            <element signature="e#106784#106799#0" expanded="true" />
+            <element signature="e#106844#106859#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/therapist/drawer/ActivityJobListDr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="219" column="18" selection-start-line="219" selection-start-column="18" selection-end-line="219" selection-end-column="18" />
+          <folding>
+            <element signature="method#getjobList#0;class#ActivityJobListDr#0" />
+            <element signature="method#onRefresh#0;class#ActivityJobListDr#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/client/activity/ActivityPostJobClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13134">
+          <caret line="615" column="27" selection-start-line="615" selection-start-column="27" selection-end-line="615" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/drawable/shape_textview_circle_bg.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="65" column="46" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/therapist/adapter/JobListAdapterDr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1562">
+          <caret line="84" column="38" selection-start-line="84" selection-start-column="38" selection-end-line="84" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/content_activity_navigation_dr.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+          <folding>
+            <element signature="e#2998#4645#0" />
+            <element signature="e#3423#4595#0" />
+            <element signature="e#4659#6315#0" />
+            <element signature="e#5084#6264#0" />
+            <element signature="e#6613#8266#0" />
+            <element signature="e#7038#8214#0" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/client/activity/ActivityDrListClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="82" column="9" lean-forward="true" selection-start-line="72" selection-start-column="8" selection-end-line="82" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/client/model/ApplicantListData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_view_applicant.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#1005#11599#0" />
+            <element signature="e#1223#11579#0" />
+            <element signature="e#1393#11024#0" />
+            <element signature="e#1580#10992#0" />
+            <element signature="e#1780#10634#0" />
+            <element signature="e#2499#3046#0" />
+            <element signature="e#3073#10596#0" />
+            <element signature="e#10656#10959#0" />
+            <element signature="e#11038#11553#0" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/client/activity/ActivityViewApplicant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/content_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-373">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding>
+            <element signature="e#1027#2210#0" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/common/BasicActivities/SplashActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding>
+            <element signature="method#splash#0;class#SplashActivity#0" />
+            <element signature="method#launchHomeScreen#0;class#SplashActivity#0" />
+            <element signature="method#printHashKey#0;class#SplashActivity#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/drtherapist/client/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="230" column="52" selection-start-line="230" selection-start-column="52" selection-end-line="230" selection-end-column="52" />
+          <folding>
+            <element signature="e#5364#5662#1" />
+            <element signature="e#6498#6526#0" expanded="true" />
+            <element signature="e#6599#6637#0" expanded="true" />
+            <element signature="method#getdrList#0;class#MainActivity#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
